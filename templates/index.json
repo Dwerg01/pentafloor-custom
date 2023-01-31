@@ -1,0 +1,642 @@
+{
+  "sections": {
+    "fading-images": {
+      "type": "fading-images",
+      "blocks": {
+        "1498501481980-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dimension-data-offices-johannesburg-8.jpg",
+            "focal_point": "bottom center",
+            "slide_title1": "INNOVATIVE",
+            "slide_title2": "FLOORING SOLUTIONS."
+          }
+        },
+        "1498501481980-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/penta-floor-image-1.jpg",
+            "focal_point": "center center",
+            "slide_title1": "FOCUSED ON SUSTAINABLE",
+            "slide_title2": "FLOORING SOLUTIONS."
+          }
+        },
+        "1498501481980-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-05-19_at_23.57.10.png",
+            "focal_point": "center center",
+            "slide_title1": "DESIGN LEADER",
+            "slide_title2": "IN GLOBAL FLOORING."
+          }
+        }
+      },
+      "block_order": [
+        "1498501481980-2",
+        "1498501481980-0",
+        "1498501481980-1"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "heading",
+        "title_size": 60,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 4,
+        "color_overlay": "#000000",
+        "color_overlay_opacity": 20,
+        "desktop_height": "450px",
+        "mobile_height": "auto"
+      }
+    },
+    "235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16826169557284__235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a-1675087609f7dba097-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.24.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "template--16826169557284__235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a-1675087609f7dba097-1": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.35.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "cf930fef-36e8-4690-bac7-908496877b51": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.31.png",
+            "image_mobile": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.31.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "77b3e479-72e6-4da6-8b4c-9cd2d7839137": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.40.png",
+            "image_mobile": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.40.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169557284__235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a-1675087609f7dba097-0",
+        "template--16826169557284__235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a-1675087609f7dba097-1",
+        "cf930fef-36e8-4690-bac7-908496877b51",
+        "77b3e479-72e6-4da6-8b4c-9cd2d7839137"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "250px",
+        "parallax": true,
+        "style": "minimal",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "49250430-196a-429c-a592-9846bfbecdd7": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16826169557284__49250430-196a-429c-a592-9846bfbecdd7-1668428780df3da14e-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "charity",
+            "title": "",
+            "text": "<p><strong>MANUFACTURED LOCALLY<\/strong><\/p>"
+          }
+        },
+        "template--16826169557284__49250430-196a-429c-a592-9846bfbecdd7-1668428780df3da14e-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "globe",
+            "title": "",
+            "text": "<p><strong>DESIGN LEADER IN GLOBAL FLOORING<\/strong><\/p>"
+          }
+        },
+        "template--16826169557284__49250430-196a-429c-a592-9846bfbecdd7-1668428780df3da14e-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "plant",
+            "title": "",
+            "text": "<p><strong>FOCUSED ON SUSTAINABILITY<\/strong><\/p>"
+          }
+        },
+        "cf1005f8-664a-4d16-8443-afa7ad7ed506": {
+          "type": "text_block",
+          "settings": {
+            "icon": "ribbon",
+            "title": "",
+            "text": "<p><strong>AWARD WINNING ACCESS FLOORING<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169557284__49250430-196a-429c-a592-9846bfbecdd7-1668428780df3da14e-0",
+        "template--16826169557284__49250430-196a-429c-a592-9846bfbecdd7-1668428780df3da14e-1",
+        "template--16826169557284__49250430-196a-429c-a592-9846bfbecdd7-1668428780df3da14e-2",
+        "cf1005f8-664a-4d16-8443-afa7ad7ed506"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "ABOUT PENTAFLOOR"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Pentafloor is the largest access flooring manufacturer on the African continent supplying affordable, high-quality and flexible access flooring solutions providing our customers with custom manufacturing capabilities, coupled with an innovative product lineup.<\/strong><\/p><p><\/p>"
+          }
+        },
+        "72722b5a-093e-41da-9d77-3f82be96578b": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/about",
+            "link_text": "ABOUT"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "72722b5a-093e-41da-9d77-3f82be96578b"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "hero-video": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "Watch",
+        "link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "featured-collection-switcher": {
+      "type": "featured-collection-switcher",
+      "disabled": true,
+      "settings": {
+        "title": "Most popular",
+        "collection1": "",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "collection-callout": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "flooring-solutions",
+        "subtitle": "Next-Generation",
+        "title": "ACCESS FLOORING SOLUTIONS",
+        "text": "Supplying affordable, high-quality and flexible access flooring solutions including Access Flooring, Hard Surfaces, Carpets and Rugs & Mats. Manufactured locally, PentaFloor has over 17 years of experience when it comes to providing next-generation solutions for raised access floor solutions.",
+        "cta_text1": "",
+        "cta_link1": "",
+        "cta_text2": "",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "1499789718857-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "access-flooring",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1499789718857-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "hard-surfaces",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1499789718857-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "carpets",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1499789718857-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "rugs-mats",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1499789718857-4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1499789718857-5": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "1499789718857-0",
+        "1499789718857-1",
+        "1499789718857-2",
+        "1499789718857-3",
+        "1499789718857-4",
+        "1499789718857-5"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "enable_gutter": false
+      }
+    },
+    "89e7be70-e02f-4e66-bb22-ce44c7c6b1bd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16826169557284__89e7be70-e02f-4e66-bb22-ce44c7c6b1bd-1669192081a0b564bf-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "template--16826169557284__89e7be70-e02f-4e66-bb22-ce44c7c6b1bd-1669192081a0b564bf-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "d7478824-dcd1-445c-98e0-7e3852e1d745": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/flooring-products",
+            "link_text": "VIEW ALL SOLUTIONS"
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169557284__89e7be70-e02f-4e66-bb22-ce44c7c6b1bd-1669192081a0b564bf-0",
+        "template--16826169557284__89e7be70-e02f-4e66-bb22-ce44c7c6b1bd-1669192081a0b564bf-1",
+        "d7478824-dcd1-445c-98e0-7e3852e1d745"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "ENVIRONMENTAL EXCELLENCE",
+        "title": "PENTAGREEN.",
+        "text": "<p><strong>We're commited to making the most beautiful and sustainable flooring in the world.<\/strong><\/p><p><strong>Pentafloor has had its products independently verified by Solid Green Consulting, South Africa’s largest dedicated green building consulting firm.<\/strong><\/p>",
+        "button_label": "ABOUT PENTAGREEN",
+        "button_link": "shopify:\/\/pages\/pentagreen",
+        "image": "shopify:\/\/shop_images\/david-troeger-M8xxVih_V_U-unsplash.jpg",
+        "focal_point": "80% 0",
+        "layout": "left",
+        "height": 750,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "4d0a6c87-ee2d-42e5-80a3-399e03ba0150": {
+      "type": "text-columns",
+      "blocks": {
+        "template--16826169557284__4d0a6c87-ee2d-42e5-80a3-399e03ba0150-16691091173943e8be-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/sasol-headoffice-pentafloor-project-image.jpg",
+            "image_width": 350,
+            "title": "SASOL HEAD OFFICE, SANDTON",
+            "text": "<p>This award-winning 70,000sqm iconic development brings together 6000 staff members from eleven satellite offices. The access flooring for this 5-Star Green Star SA certified building was manufactured and supplied by Pentafloor.<\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/pages\/projects"
+          }
+        },
+        "template--16826169557284__4d0a6c87-ee2d-42e5-80a3-399e03ba0150-16691091173943e8be-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/fnb-fernadle-pentafloor-carpet-feature.jpg",
+            "image_width": 650,
+            "title": "FNB FERNDALE CONTACT CENTRE, JHB",
+            "text": "<p>For the FNB Contact Centre in Ferndale, Randburg, PentaFloor supplied access flooring and carpeting that contributed significantly to the project’s score under the Green Star Indoor Environmental Quality Category.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16826169557284__4d0a6c87-ee2d-42e5-80a3-399e03ba0150-16691091173943e8be-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/mutual-place-pentafloor-project.jpg",
+            "image_width": 650,
+            "title": "1 MUTUAL PLACE, SANDTON",
+            "text": "<p>For the new 33,000sqm Mutual Place in Sandton, the carpeting products supplied and installed by PentaFloor are of a superior quality, with beautiful colours and textures that are reminiscent of those found in nature.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169557284__4d0a6c87-ee2d-42e5-80a3-399e03ba0150-16691091173943e8be-0",
+        "template--16826169557284__4d0a6c87-ee2d-42e5-80a3-399e03ba0150-16691091173943e8be-1",
+        "template--16826169557284__4d0a6c87-ee2d-42e5-80a3-399e03ba0150-16691091173943e8be-2"
+      ],
+      "settings": {
+        "title": "FLOORING PROJECTS",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "bbdd0056-9cfd-445a-8a12-04a8e4acbdaa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16826169557284__bbdd0056-9cfd-445a-8a12-04a8e4acbdaa-1669111067c2367efa-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "template--16826169557284__bbdd0056-9cfd-445a-8a12-04a8e4acbdaa-1669111067c2367efa-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "c2df9023-54dd-4ec5-8006-932be950f320": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/projects",
+            "link_text": "VIEW ALL PROJECTS"
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169557284__bbdd0056-9cfd-445a-8a12-04a8e4acbdaa-1669111067c2367efa-0",
+        "template--16826169557284__bbdd0056-9cfd-445a-8a12-04a8e4acbdaa-1669111067c2367efa-1",
+        "c2df9023-54dd-4ec5-8006-932be950f320"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "5fec89e2-e978-4601-8c56-363a807e4c67": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "AWARD WINNING",
+        "title": "DESIGN.",
+        "text": "<p>Our hard work and dedication since 2005 has resulted in industry recognition both locally and abroad. <\/p><p><\/p><p>And our affiliation with award-winning Shaw Contract™ has enabled us to deliver cost-effective, superior solutions to meet even the most daring design vision.<\/p>",
+        "button_label": "VIEW AWARDS",
+        "button_link": "shopify:\/\/pages\/awards",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-05-19_at_23.57.10.png",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 750,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "d4ae5aff-caf8-40b9-ace8-47c876b38200": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "shield",
+            "title": "PRODUCT CUSTOMISATION",
+            "text": ""
+          }
+        },
+        "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "thumbs-up",
+            "title": "3 TIERS OF SERVICE",
+            "text": ""
+          }
+        },
+        "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "stopwatch",
+            "title": "QUICK SHIP SERVICES",
+            "text": ""
+          }
+        },
+        "ca68429b-7ff3-4e7f-8158-243f031d7abc": {
+          "type": "text_block",
+          "settings": {
+            "icon": "package",
+            "title": "LOCAL STOCKKEEPING",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-0",
+        "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-1",
+        "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-2",
+        "ca68429b-7ff3-4e7f-8158-243f031d7abc"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "367025af-a7c4-4d09-8b8e-00e664950b6e": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "template--16826169557284__367025af-a7c4-4d09-8b8e-00e664950b6e-1669111619d08d76ed-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--16826169557284__367025af-a7c4-4d09-8b8e-00e664950b6e-1669111619d08d76ed-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--16826169557284__367025af-a7c4-4d09-8b8e-00e664950b6e-1669111619d08d76ed-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--16826169557284__367025af-a7c4-4d09-8b8e-00e664950b6e-1669111619d08d76ed-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--16826169557284__367025af-a7c4-4d09-8b8e-00e664950b6e-1669111619d08d76ed-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169557284__367025af-a7c4-4d09-8b8e-00e664950b6e-1669111619d08d76ed-0",
+        "template--16826169557284__367025af-a7c4-4d09-8b8e-00e664950b6e-1669111619d08d76ed-1",
+        "template--16826169557284__367025af-a7c4-4d09-8b8e-00e664950b6e-1669111619d08d76ed-2",
+        "template--16826169557284__367025af-a7c4-4d09-8b8e-00e664950b6e-1669111619d08d76ed-3",
+        "template--16826169557284__367025af-a7c4-4d09-8b8e-00e664950b6e-1669111619d08d76ed-4"
+      ],
+      "settings": {
+        "title": "",
+        "round_images": false,
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "ff3854c9-13e7-4356-82cf-ef0a471be91f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AdobeStock_88657675.jpg",
+        "image2": "shopify:\/\/shop_images\/Soweto-Healthcare-Clinic-second-Fr-011-scaled.jpg",
+        "image_width": 700,
+        "subtitle": "CONTACT US FOR MORE INFO",
+        "title": "GET IN TOUCH",
+        "text": "<p><strong>Address: <\/strong>Block B Rosebank Office Park, 180 Jan Smuts Av, Parktown North, 2193 Johannesburg, Gauteng<\/p><p><strong>Phone<\/strong>: 011 440 6759<\/p><p><strong>Email: <\/strong><a href=\"mailto:info@pentafloor.co.za\" target=\"_blank\">info@pentafloor.co.za<\/a><\/p><p><strong>Opening Hours: <\/strong>08:00am - 17:00pm<\/p>",
+        "button_label": "CONTACT US",
+        "button_link": "shopify:\/\/pages\/contact-1",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "fading-images",
+    "235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a",
+    "49250430-196a-429c-a592-9846bfbecdd7",
+    "rich-text",
+    "hero-video",
+    "featured-collection-switcher",
+    "collection-callout",
+    "featured-collections",
+    "89e7be70-e02f-4e66-bb22-ce44c7c6b1bd",
+    "background-image-text",
+    "4d0a6c87-ee2d-42e5-80a3-399e03ba0150",
+    "bbdd0056-9cfd-445a-8a12-04a8e4acbdaa",
+    "5fec89e2-e978-4601-8c56-363a807e4c67",
+    "d4ae5aff-caf8-40b9-ace8-47c876b38200",
+    "367025af-a7c4-4d09-8b8e-00e664950b6e",
+    "ff3854c9-13e7-4356-82cf-ef0a471be91f"
+  ]
+}

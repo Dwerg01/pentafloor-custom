@@ -1,0 +1,516 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "title": "ABOUT\nPENTAFLOOR.",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/AdobeStock_310858697.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "80% 100%"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "PENTA FLOOR IS THE DEFINITIVE SOURCE OF BRINGING TODAY'S BUILDINGS INTO THE FUTURE."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Pentafloor supplies affordable, high-quality and flexible access flooring solutions to a unique and niche market.<\/strong> <\/p><p>High-end architectural finishes allow for a signature style while maintaining the high-performance and long-term return-on-investment advantages associated with adaptive raised access floor. Custom manufacturing capabilities, coupled with an innovative product lineup, provides customers with an optiomised solution.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "trophy",
+            "title": "PRODUCT CUSTOMISATION",
+            "text": "<p><strong>Custom options available <\/strong>from enhancements to running line products to complete custom solutions - our product designers work with you to create the perfect product.<\/p>"
+          }
+        },
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "gears",
+            "title": "3 TIERS OF SERVICE",
+            "text": "<p><strong>2 Weeks<\/strong> from in-country stock<\/p><p><strong>4-8 weeks<\/strong> from U.S & China<\/p><p><strong>10-12<\/strong> weeks made to order<\/p>"
+          }
+        },
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "QUICK SHIP OPTIONS",
+            "text": "<p>Quick Ship carpet tile products are available in six weeks or less with select styles available for immediate shipment<\/p>"
+          }
+        },
+        "38d9a668-e84c-4032-98e9-47e7128eb943": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "LOCAL STOCKING",
+            "text": "<p><strong>Local Service Provider<\/strong> PentaFloor has up to 5000 square metres in stock onsite warehouses and immediate access to storage facilities <strong>throughout South Africa<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-0",
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-1",
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-2",
+        "38d9a668-e84c-4032-98e9-47e7128eb943"
+      ],
+      "settings": {
+        "title": "SUPERIOR SERVICE",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "5aaa3247-cb5e-4020-ad56-a8a60d5e88c5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pentafloor-about-02.jpg",
+        "image2": "shopify:\/\/shop_images\/pentafloor-about-01.jpg",
+        "image_width": 700,
+        "subtitle": "PENTA FLOOR'S",
+        "title": "INCEPTION",
+        "text": "<p>Opened in 2005 with the efforts and passion of owners Larry and Bianca Shakinovsky. For over 17 years, Penta Floor has been an industry-leading provider of next-generation solutions for raised access floor and data centre containment solutions.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "6ef7d12c-6a5c-4655-bdc1-4264aeb6c156": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-05-19_at_23.57.10.png",
+        "image_width": 700,
+        "subtitle": "penta floor's",
+        "title": "CONTINUOUS GROWTH",
+        "text": "<p>Pentafloor has quickly grown to become the largest acces flooring manufacturer on the african continent. In 2012, Penta Floor acquired the business of Solidfeel Access Flooring and in addition, in 2013, the company acquire the raised floor division of LaFarge (South Africa). Since then, these three prominent brands have joined forces, resulting in the advantage of sharing over 60 years of technical expertise and a flawless track record - without compromising each brand's individual heritage.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "right",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "2250980c-51ea-4458-8f44-429f1af8bd75": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shaw-flooring-solutions-logo-512x120.png",
+        "image2": "shopify:\/\/shop_images\/fb04c417cd835ccdfb5c91528a657a11_10b326c7-2141-4c7b-89f4-e621370d6201.jpg",
+        "image_width": 700,
+        "subtitle": "STRATEGIC",
+        "title": "PARTNERSHIPS",
+        "text": "<p>Penta Floor holds exclusive African distribution rights for Shaw Indistries Group, Inc. carpets. Headquarted in Dalton, Georgia in the United States, SHaw Industries Group, Inc. is a world leader in floorcovering manufacturing and distribution. Penta Floor distributes the Shaw Contract Group's range of flooring products and offers full turnkey solutions including design, supply, installations and project management in both South Africa and Africa at large. <strong>This makes up the Penta Floor group's truly one-of-a-kind bundled business offering.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "31035c2e-5b4f-4511-8fd6-2687452689f4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16826169622820__31035c2e-5b4f-4511-8fd6-2687452689f4-1669033917d3f5db8c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "VISION"
+          }
+        },
+        "template--16826169622820__31035c2e-5b4f-4511-8fd6-2687452689f4-1669033917d3f5db8c-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Our vision serves as the guide for every aspect of our business by describing what we need to accomplish in order to continue achieving sustainable, quality growth.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169622820__31035c2e-5b4f-4511-8fd6-2687452689f4-1669033917d3f5db8c-0",
+        "template--16826169622820__31035c2e-5b4f-4511-8fd6-2687452689f4-1669033917d3f5db8c-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "a5ef322d-fa00-4f06-a207-bd2e3d39758f": {
+      "type": "text-columns",
+      "blocks": {
+        "template--16826169622820__a5ef322d-fa00-4f06-a207-bd2e3d39758f-1669033120fa96395c-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 60,
+            "title": "PEOPLE",
+            "text": "<p>Be a great place to work and inspire our people to become the best they can be.<\/p><p><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16826169622820__a5ef322d-fa00-4f06-a207-bd2e3d39758f-1669033120fa96395c-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "PLANET",
+            "text": "<p>Be a responsible part of society by ensuring that our impact on the environment is ensuring sustainable communities.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16826169622820__a5ef322d-fa00-4f06-a207-bd2e3d39758f-1669033120fa96395c-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "PORTFOLIO",
+            "text": "<p>To offer the most innovative flooring solutions to support today’s business environment.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "cfb5a542-3bd5-4570-8748-a288055bcd5f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "PARTNERS",
+            "text": "<p>Create and sustain a network of customers and suppliers to ensure interactive system to create mutually beneficial relationships.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0f81c8dd-7914-425b-85e4-e746d4a41f2d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "PROFIT",
+            "text": "<p>Maximize long-term return to all shareholders, while staying mindful of our overall responsibilities.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "827a296c-31e7-462b-af57-4e24c8b38a46": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "PRODUCTIVITY",
+            "text": "<p>Be a highly effective, lean, dynamic and fast-moving organization.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169622820__a5ef322d-fa00-4f06-a207-bd2e3d39758f-1669033120fa96395c-0",
+        "template--16826169622820__a5ef322d-fa00-4f06-a207-bd2e3d39758f-1669033120fa96395c-1",
+        "template--16826169622820__a5ef322d-fa00-4f06-a207-bd2e3d39758f-1669033120fa96395c-2",
+        "cfb5a542-3bd5-4570-8748-a288055bcd5f",
+        "0f81c8dd-7914-425b-85e4-e746d4a41f2d",
+        "827a296c-31e7-462b-af57-4e24c8b38a46"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "12143b07-3572-423b-93ee-97ed61ec4601": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16826169622820__12143b07-3572-423b-93ee-97ed61ec4601-166903355025d6ad38-0": {
+          "type": "heading",
+          "settings": {
+            "title": "MISSION"
+          }
+        },
+        "template--16826169622820__12143b07-3572-423b-93ee-97ed61ec4601-166903355025d6ad38-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Pentafloor’s roadmap starts with our mission, which is enduring. <\/strong><\/p><p>It declares our purpose as a company and serves as the standard against which we weigh our actions and decisions to:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169622820__12143b07-3572-423b-93ee-97ed61ec4601-166903355025d6ad38-0",
+        "template--16826169622820__12143b07-3572-423b-93ee-97ed61ec4601-166903355025d6ad38-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "0bc6400b-45d0-44b7-a207-4d1f7259f865": {
+      "type": "text-columns",
+      "blocks": {
+        "template--16826169622820__0bc6400b-45d0-44b7-a207-4d1f7259f865-1669120871d0925ff2-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1.png",
+            "image_width": 70,
+            "title": "",
+            "text": "<p>DEVELOP & PROVIDE INNOVATIVE FLOORING SOLUTIONS<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16826169622820__0bc6400b-45d0-44b7-a207-4d1f7259f865-1669120871d0925ff2-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2.png",
+            "image_width": 70,
+            "title": "",
+            "text": "<p>INSPIRE CREATIVITY IN THE 5TH WALL OF EVERY ROOM<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16826169622820__0bc6400b-45d0-44b7-a207-4d1f7259f865-1669120871d0925ff2-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3.png",
+            "image_width": 70,
+            "title": "",
+            "text": "<p>CREATE VALUE IN THE AREAS WHERE OUR PRODUCTS ARE USED<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169622820__0bc6400b-45d0-44b7-a207-4d1f7259f865-1669120871d0925ff2-0",
+        "template--16826169622820__0bc6400b-45d0-44b7-a207-4d1f7259f865-1669120871d0925ff2-1",
+        "template--16826169622820__0bc6400b-45d0-44b7-a207-4d1f7259f865-1669120871d0925ff2-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "map": {
+      "type": "map",
+      "settings": {
+        "map_title": "PENTA FLOOR HEADQUARTERS",
+        "address": "<p>1 Sturdee Avenue,<\/p><p>Rosebank, Johannesburg, 2196<\/p><p>Mon - Fri: 8.30am - 17.00pm<br\/>Saturday: 8.30am - 17.00pm<br\/>Sunday: Closed.<\/p>",
+        "map_address": "1 Sturdee Avenue Rosebank, Johannesburg, 2196",
+        "api_key": "",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "171d915d-f86a-4ce2-b70a-fadc262d6628": {
+      "type": "text-columns",
+      "disabled": true,
+      "blocks": {
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Bianca Shakinovsky",
+            "text": "<p>Founder & MD<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Larry Shakinovsky",
+            "text": "<p>Founder & MD<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "8140c095-b772-47ed-b9a3-95e894c863fe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9485422e-60dc-40d8-8ef2-46d0fd4a0965": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "91b6820a-1245-4286-a973-d0935f7728d8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "e0a93683-94ac-41e9-90af-8838e580bd39": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "6d88bec9-acfa-4367-8e32-5554d29f72ad": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "34022327-9bd6-461d-9f7d-3e6db211aa05": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-0",
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-1",
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-2",
+        "8140c095-b772-47ed-b9a3-95e894c863fe",
+        "9485422e-60dc-40d8-8ef2-46d0fd4a0965",
+        "91b6820a-1245-4286-a973-d0935f7728d8",
+        "e0a93683-94ac-41e9-90af-8838e580bd39",
+        "6d88bec9-acfa-4367-8e32-5554d29f72ad",
+        "34022327-9bd6-461d-9f7d-3e6db211aa05"
+      ],
+      "settings": {
+        "title": "MEET THE TEAM",
+        "align_text": "center",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow",
+    "rich-text",
+    "d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da",
+    "5aaa3247-cb5e-4020-ad56-a8a60d5e88c5",
+    "6ef7d12c-6a5c-4655-bdc1-4264aeb6c156",
+    "2250980c-51ea-4458-8f44-429f1af8bd75",
+    "31035c2e-5b4f-4511-8fd6-2687452689f4",
+    "a5ef322d-fa00-4f06-a207-bd2e3d39758f",
+    "12143b07-3572-423b-93ee-97ed61ec4601",
+    "0bc6400b-45d0-44b7-a207-4d1f7259f865",
+    "map",
+    "form",
+    "171d915d-f86a-4ce2-b70a-fadc262d6628"
+  ]
+}

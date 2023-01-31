@@ -1,0 +1,371 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "title": "PENTAGREEN",
+            "title_size": 80,
+            "subheading": "ENVIRONMENTAL EXCELLENCE",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/david-troeger-M8xxVih_V_U-unsplash.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/david-troeger-M8xxVih_V_U-unsplash.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "bottom center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "300px",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": false,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "6e80c57c-4050-421d-b561-8acc50b886fb": {
+      "type": "text-columns",
+      "blocks": {
+        "template--16987250491684__6e80c57c-4050-421d-b561-8acc50b886fb-166903643705759d39-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1.png",
+            "image_width": 110,
+            "title": "INNOVATIVE PRODUCTS",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16987250491684__6e80c57c-4050-421d-b561-8acc50b886fb-166903643705759d39-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2.png",
+            "image_width": 110,
+            "title": "RECLAMATION & RECYCLING",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16987250491684__6e80c57c-4050-421d-b561-8acc50b886fb-166903643705759d39-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3.png",
+            "image_width": 110,
+            "title": "THIRD PARTY CERTIFICATION",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16987250491684__6e80c57c-4050-421d-b561-8acc50b886fb-166903643705759d39-0",
+        "template--16987250491684__6e80c57c-4050-421d-b561-8acc50b886fb-166903643705759d39-1",
+        "template--16987250491684__6e80c57c-4050-421d-b561-8acc50b886fb-166903643705759d39-2"
+      ],
+      "settings": {
+        "title": "WE'RE COMMITED TO MAKING THE MOST BEAUTIFUL AND SUSTAINABLE FLOORING IN THE WORLD",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "trophy",
+            "title": "PRODUCT CUSTOMISATION",
+            "text": ""
+          }
+        },
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "gears",
+            "title": "3 TIERS OF SERVICE",
+            "text": ""
+          }
+        },
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "QUICK SHIP OPTIONS",
+            "text": ""
+          }
+        },
+        "38d9a668-e84c-4032-98e9-47e7128eb943": {
+          "type": "text_block",
+          "settings": {
+            "icon": "store",
+            "title": "LOCAL STOCKING",
+            "text": "<p><strong>Local Service Provider<\/strong> PentaFloor has up to 5000 square metres in stock onsite warehouses and immediate access to storage facilities <strong>throughout South Africa<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-0",
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-1",
+        "template--16826169622820__d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da-16690343068a5ce732-2",
+        "38d9a668-e84c-4032-98e9-47e7128eb943"
+      ],
+      "settings": {
+        "title": "WE'RE COMMITED TO MAKING THE MOST BEAUTIFUL AND SUSTAINABLE FLOORING IN THE WORLD",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "5aaa3247-cb5e-4020-ad56-a8a60d5e88c5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pentafloor-about-02.jpg",
+        "image2": "shopify:\/\/shop_images\/pentafloor-about-01.jpg",
+        "image_width": 700,
+        "subtitle": "PENTA FLOOR'S",
+        "title": "INCEPTION",
+        "text": "<p>Opened in 2005 with the efforts and passion of owners Larry and Bianca Shakinovsky. For over 17 years, Penta Floor has been an industry-leading provider of next-generation solutions for raised access floor and data centre containment solutions.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "6ef7d12c-6a5c-4655-bdc1-4264aeb6c156": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-05-19_at_23.57.10.png",
+        "image_width": 700,
+        "subtitle": "penta floor's",
+        "title": "CONTINUOUS GROWTH",
+        "text": "<p>Pentafloor has quickly grown to become the largest acces flooring manufacturer on the african continent. In 2012, Penta Floor acquired the business of Solidfeel Access Flooring and in addition, in 2013, the company acquire the raised floor division of LaFarge (South Africa). Since then, these three prominent brands have joined forces, resulting in the advantage of sharing over 60 years of technical expertise and a flawless track record - without compromising each brand's individual heritage.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "2250980c-51ea-4458-8f44-429f1af8bd75": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/shaw-flooring-solutions-logo-512x120.png",
+        "image2": "shopify:\/\/shop_images\/fb04c417cd835ccdfb5c91528a657a11_10b326c7-2141-4c7b-89f4-e621370d6201.jpg",
+        "image_width": 700,
+        "subtitle": "STRATEGIC",
+        "title": "PARTNERSHIPS",
+        "text": "<p>Penta Floor holds exclusive African distribution rights for Shaw Indistries Group, Inc. carpets. Headquarted in Dalton, Georgia in the United States, SHaw Industries Group, Inc. is a world leader in floorcovering manufacturing and distribution. Penta Floor distributes the Shaw Contract Group's range of flooring products and offers full turnkey solutions including design, supply, installations and project management in both South Africa and Africa at large. <strong>This makes up the Penta Floor group's truly one-of-a-kind bundled business offering.<\/strong><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "map": {
+      "type": "map",
+      "settings": {
+        "map_title": "PENTA FLOOR HEADQUARTERS",
+        "address": "<p>1 Sturdee Avenue,<\/p><p>Rosebank, Johannesburg, 2196<\/p><p>Mon - Fri: 8.30am - 17.00pm<br\/>Saturday: 8.30am - 17.00pm<br\/>Sunday: Closed.<\/p>",
+        "map_address": "1 Sturdee Avenue Rosebank, Johannesburg, 2196",
+        "api_key": "",
+        "show_button": true,
+        "background_image": "shopify:\/\/shop_images\/Screenshot_2022-05-19_at_23.57.10.png",
+        "background_image_position": "center center"
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "CONTACT US",
+        "text": "",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    },
+    "171d915d-f86a-4ce2-b70a-fadc262d6628": {
+      "type": "text-columns",
+      "disabled": true,
+      "blocks": {
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Bianca Shakinovsky",
+            "text": "<p>Founder & MD<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Larry Shakinovsky",
+            "text": "<p>Founder & MD<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "8140c095-b772-47ed-b9a3-95e894c863fe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9485422e-60dc-40d8-8ef2-46d0fd4a0965": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "91b6820a-1245-4286-a973-d0935f7728d8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "e0a93683-94ac-41e9-90af-8838e580bd39": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "6d88bec9-acfa-4367-8e32-5554d29f72ad": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "34022327-9bd6-461d-9f7d-3e6db211aa05": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-0",
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-1",
+        "template--16826169622820__171d915d-f86a-4ce2-b70a-fadc262d6628-1669034306635469e6-2",
+        "8140c095-b772-47ed-b9a3-95e894c863fe",
+        "9485422e-60dc-40d8-8ef2-46d0fd4a0965",
+        "91b6820a-1245-4286-a973-d0935f7728d8",
+        "e0a93683-94ac-41e9-90af-8838e580bd39",
+        "6d88bec9-acfa-4367-8e32-5554d29f72ad",
+        "34022327-9bd6-461d-9f7d-3e6db211aa05"
+      ],
+      "settings": {
+        "title": "MEET THE TEAM",
+        "align_text": "center",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow",
+    "rich-text",
+    "6e80c57c-4050-421d-b561-8acc50b886fb",
+    "d380c34d-7ba9-4dd5-9a00-e7e6fa8c65da",
+    "5aaa3247-cb5e-4020-ad56-a8a60d5e88c5",
+    "6ef7d12c-6a5c-4655-bdc1-4264aeb6c156",
+    "2250980c-51ea-4458-8f44-429f1af8bd75",
+    "map",
+    "form",
+    "171d915d-f86a-4ce2-b70a-fadc262d6628"
+  ]
+}

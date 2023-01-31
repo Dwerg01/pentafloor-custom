@@ -1,0 +1,64 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "202fd0c5-06ad-4571-a27c-f8c66549011d": {
+      "type": "fading-images",
+      "blocks": {
+        "template--16826169753892__202fd0c5-06ad-4571-a27c-f8c66549011d-1675072637306c011c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mutual-place-pentafloor-project.jpg",
+            "focal_point": "center center",
+            "slide_title1": "SOLUTIONS FOR FLOORING CHALLENGES ACROSS ALL AREAS OF BUSINESS",
+            "slide_title2": "titles and images"
+          }
+        },
+        "template--16826169753892__202fd0c5-06ad-4571-a27c-f8c66549011d-1675072637306c011c-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "Use this section",
+            "slide_title2": "to impress customers"
+          }
+        },
+        "template--16826169753892__202fd0c5-06ad-4571-a27c-f8c66549011d-1675072637306c011c-2": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "And highlight",
+            "slide_title2": "important details"
+          }
+        }
+      },
+      "block_order": [
+        "template--16826169753892__202fd0c5-06ad-4571-a27c-f8c66549011d-1675072637306c011c-0",
+        "template--16826169753892__202fd0c5-06ad-4571-a27c-f8c66549011d-1675072637306c011c-1",
+        "template--16826169753892__202fd0c5-06ad-4571-a27c-f8c66549011d-1675072637306c011c-2"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "202fd0c5-06ad-4571-a27c-f8c66549011d"
+  ]
+}

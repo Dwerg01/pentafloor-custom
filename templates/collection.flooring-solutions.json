@@ -1,0 +1,216 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "title": "PENTAFLOOR",
+            "title_size": 85,
+            "subheading": "FLOORING SOLUTIONS",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/kbac-kingspan-access-floors-1-onvjnxlkj0a7hk3v9uwlsnkfwxwueogz7e0hmf5ji8.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "bottom center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "ae2f320c-e7ec-4d76-8b4b-72e47a3756a1": {
+      "type": "text-with-icons",
+      "disabled": true,
+      "blocks": {
+        "template--16986517471524__ae2f320c-e7ec-4d76-8b4b-72e47a3756a1-16690297715844b906-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "trophy",
+            "title": "PRODUCT CUSTOMISATION",
+            "text": ""
+          }
+        },
+        "template--16986517471524__ae2f320c-e7ec-4d76-8b4b-72e47a3756a1-16690297715844b906-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "template--16986517471524__ae2f320c-e7ec-4d76-8b4b-72e47a3756a1-16690297715844b906-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "f5423a12-6df5-4f2e-b574-d6a15e581dd9": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16986517471524__ae2f320c-e7ec-4d76-8b4b-72e47a3756a1-16690297715844b906-0",
+        "template--16986517471524__ae2f320c-e7ec-4d76-8b4b-72e47a3756a1-16690297715844b906-1",
+        "template--16986517471524__ae2f320c-e7ec-4d76-8b4b-72e47a3756a1-16690297715844b906-2",
+        "f5423a12-6df5-4f2e-b574-d6a15e581dd9"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection1": {
+          "type": "collection",
+          "settings": {
+            "collection": "access-flooring",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "collection2": {
+          "type": "collection",
+          "settings": {
+            "collection": "hard-surfaces",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "collection3": {
+          "type": "collection",
+          "settings": {
+            "collection": "carpets",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "collection4": {
+          "type": "collection",
+          "settings": {
+            "collection": "rugs-mats",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        }
+      },
+      "block_order": [
+        "collection1",
+        "collection2",
+        "collection3",
+        "collection4"
+      ],
+      "settings": {
+        "title": "VIEW BY SOLUTION",
+        "divider": false,
+        "enable_gutter": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "disabled": true,
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "collection_subnav_style": "inline",
+            "per_row": 4,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "product_grid"
+      ],
+      "settings": {
+        "collection_image_enable": true,
+        "collection_image_height": 550,
+        "parallax": true,
+        "parallax_direction": "top",
+        "enable_sidebar": true,
+        "collapsed": true,
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    },
+    "91ffc3e9-7795-45ed-b810-255bb077c74f": {
+      "type": "logo-list",
+      "blocks": {
+        "template--16986517471524__91ffc3e9-7795-45ed-b810-255bb077c74f-166902964262656b3c-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--16986517471524__91ffc3e9-7795-45ed-b810-255bb077c74f-166902964262656b3c-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--16986517471524__91ffc3e9-7795-45ed-b810-255bb077c74f-166902964262656b3c-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "template--16986517471524__91ffc3e9-7795-45ed-b810-255bb077c74f-166902964262656b3c-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16986517471524__91ffc3e9-7795-45ed-b810-255bb077c74f-166902964262656b3c-0",
+        "template--16986517471524__91ffc3e9-7795-45ed-b810-255bb077c74f-166902964262656b3c-1",
+        "template--16986517471524__91ffc3e9-7795-45ed-b810-255bb077c74f-166902964262656b3c-2",
+        "template--16986517471524__91ffc3e9-7795-45ed-b810-255bb077c74f-166902964262656b3c-3"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "ae2f320c-e7ec-4d76-8b4b-72e47a3756a1",
+    "featured-collections",
+    "main-collection",
+    "91ffc3e9-7795-45ed-b810-255bb077c74f"
+  ]
+}
