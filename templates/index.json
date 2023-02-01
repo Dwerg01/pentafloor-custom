@@ -513,21 +513,12 @@
             "title": "QUICK SHIP SERVICES",
             "text": ""
           }
-        },
-        "ca68429b-7ff3-4e7f-8158-243f031d7abc": {
-          "type": "text_block",
-          "settings": {
-            "icon": "package",
-            "title": "LOCAL STOCKKEEPING",
-            "text": ""
-          }
         }
       },
       "block_order": [
         "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-0",
         "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-1",
-        "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-2",
-        "ca68429b-7ff3-4e7f-8158-243f031d7abc"
+        "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-2"
       ],
       "settings": {
         "title": "",
@@ -619,6 +610,46 @@
         "layout": "right",
         "divider": false
       }
+    },
+    "418e62ef-f408-407c-8bf4-1964aa6330e4": {
+      "type": "custom-swiper-icon",
+      "blocks": {
+        "68c0a0a9-2710-46d6-a65d-7f7795a73ad9": {
+          "type": "column",
+          "settings": {
+            "block-heading": "",
+            "text_alignment": "center",
+            "icon": "chat",
+            "icon-text": "Describe the image in your slide"
+          }
+        },
+        "5e498e7d-1528-4feb-aaad-d0bb80b153db": {
+          "type": "column",
+          "settings": {
+            "block-heading": "Column Heading",
+            "text_alignment": "center",
+            "icon": "chat",
+            "icon-text": "Describe the image in your slide"
+          }
+        },
+        "5fcd5689-d86f-4166-8092-fea4f8bc6a48": {
+          "type": "column",
+          "settings": {
+            "block-heading": "Gift",
+            "text_alignment": "center",
+            "icon": "gift",
+            "icon-text": "gifts icon text"
+          }
+        }
+      },
+      "block_order": [
+        "68c0a0a9-2710-46d6-a65d-7f7795a73ad9",
+        "5e498e7d-1528-4feb-aaad-d0bb80b153db",
+        "5fcd5689-d86f-4166-8092-fea4f8bc6a48"
+      ],
+      "settings": {
+        "title": ""
+      }
     }
   },
   "order": [
@@ -637,6 +668,7 @@
     "5fec89e2-e978-4601-8c56-363a807e4c67",
     "d4ae5aff-caf8-40b9-ace8-47c876b38200",
     "367025af-a7c4-4d09-8b8e-00e664950b6e",
-    "ff3854c9-13e7-4356-82cf-ef0a471be91f"
+    "ff3854c9-13e7-4356-82cf-ef0a471be91f",
+    "418e62ef-f408-407c-8bf4-1964aa6330e4"
   ]
 }
