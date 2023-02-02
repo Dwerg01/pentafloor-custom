@@ -51,85 +51,54 @@
         "mobile_height": "auto"
       }
     },
-    "235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a": {
-      "type": "slideshow",
+    "4aa24bed-59d1-4d87-a6a1-6df0aecbc4c9": {
+      "type": "custom-swiper-icon",
       "blocks": {
-        "template--16826169557284__235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a-1675087609f7dba097-0": {
-          "type": "image",
+        "d91432eb-f65f-4e4b-986f-24aeaa632a5e": {
+          "type": "column",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.24.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
+            "block-heading": "Column Heading",
+            "text_alignment": "center",
+            "icon": "chat",
+            "icon-text": "Describe the image in your slide"
           }
         },
-        "template--16826169557284__235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a-1675087609f7dba097-1": {
-          "type": "image",
+        "749a67df-23bc-4e7d-9994-fa04848f195d": {
+          "type": "column",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.35.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
+            "block-heading": "Column Heading",
+            "text_alignment": "center",
+            "icon": "chat",
+            "icon-text": "Describe the image in your slide"
           }
         },
-        "cf930fef-36e8-4690-bac7-908496877b51": {
-          "type": "image",
+        "4b9d5387-15d0-44e1-8b1d-bd08d5b775e4": {
+          "type": "column",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.31.png",
-            "image_mobile": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.31.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
+            "block-heading": "Column Heading",
+            "text_alignment": "center",
+            "icon": "chat",
+            "icon-text": "Describe the image in your slide"
           }
         },
-        "77b3e479-72e6-4da6-8b4c-9cd2d7839137": {
-          "type": "image",
+        "636536d3-952d-4d67-80a2-cb2c2f775758": {
+          "type": "column",
           "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.40.png",
-            "image_mobile": "shopify:\/\/shop_images\/Screenshot_2023-01-30_at_16.07.40.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
+            "block-heading": "Column Heading",
+            "text_alignment": "center",
+            "icon": "plant",
+            "icon-text": "Describe the image in your slide"
           }
         }
       },
       "block_order": [
-        "template--16826169557284__235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a-1675087609f7dba097-0",
-        "template--16826169557284__235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a-1675087609f7dba097-1",
-        "cf930fef-36e8-4690-bac7-908496877b51",
-        "77b3e479-72e6-4da6-8b4c-9cd2d7839137"
+        "d91432eb-f65f-4e4b-986f-24aeaa632a5e",
+        "749a67df-23bc-4e7d-9994-fa04848f195d",
+        "4b9d5387-15d0-44e1-8b1d-bd08d5b775e4",
+        "636536d3-952d-4d67-80a2-cb2c2f775758"
       ],
       "settings": {
-        "section_height": "450px",
-        "mobile_height": "250px",
-        "parallax": true,
-        "style": "minimal",
-        "autoplay": true,
-        "autoplay_speed": 5
+        "title": "section heading"
       }
     },
     "49250430-196a-429c-a592-9846bfbecdd7": {
@@ -650,61 +619,11 @@
       "settings": {
         "title": ""
       }
-    },
-    "4aa24bed-59d1-4d87-a6a1-6df0aecbc4c9": {
-      "type": "custom-swiper-icon",
-      "blocks": {
-        "d91432eb-f65f-4e4b-986f-24aeaa632a5e": {
-          "type": "column",
-          "settings": {
-            "block-heading": "Column Heading",
-            "text_alignment": "center",
-            "icon": "chat",
-            "icon-text": "Describe the image in your slide"
-          }
-        },
-        "749a67df-23bc-4e7d-9994-fa04848f195d": {
-          "type": "column",
-          "settings": {
-            "block-heading": "Column Heading",
-            "text_alignment": "center",
-            "icon": "chat",
-            "icon-text": "Describe the image in your slide"
-          }
-        },
-        "4b9d5387-15d0-44e1-8b1d-bd08d5b775e4": {
-          "type": "column",
-          "settings": {
-            "block-heading": "Column Heading",
-            "text_alignment": "center",
-            "icon": "chat",
-            "icon-text": "Describe the image in your slide"
-          }
-        },
-        "636536d3-952d-4d67-80a2-cb2c2f775758": {
-          "type": "column",
-          "settings": {
-            "block-heading": "Column Heading",
-            "text_alignment": "center",
-            "icon": "plant",
-            "icon-text": "Describe the image in your slide"
-          }
-        }
-      },
-      "block_order": [
-        "d91432eb-f65f-4e4b-986f-24aeaa632a5e",
-        "749a67df-23bc-4e7d-9994-fa04848f195d",
-        "4b9d5387-15d0-44e1-8b1d-bd08d5b775e4",
-        "636536d3-952d-4d67-80a2-cb2c2f775758"
-      ],
-      "settings": {
-        "title": "Icon slider header"
-      }
     }
   },
   "order": [
     "fading-images",
-    "235e4ecb-d1f6-46b2-87dc-8bb73f9d8c2a",
+    "4aa24bed-59d1-4d87-a6a1-6df0aecbc4c9",
     "49250430-196a-429c-a592-9846bfbecdd7",
     "rich-text",
     "hero-video",
@@ -719,7 +638,6 @@
     "d4ae5aff-caf8-40b9-ace8-47c876b38200",
     "367025af-a7c4-4d09-8b8e-00e664950b6e",
     "ff3854c9-13e7-4356-82cf-ef0a471be91f",
-    "418e62ef-f408-407c-8bf4-1964aa6330e4",
-    "4aa24bed-59d1-4d87-a6a1-6df0aecbc4c9"
+    "418e62ef-f408-407c-8bf4-1964aa6330e4"
   ]
 }
