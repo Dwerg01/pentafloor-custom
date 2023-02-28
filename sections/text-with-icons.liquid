@@ -20,9 +20,10 @@
         text-with-icons__blocks
         has-{{ section.settings.desktop_columns_per_row }}-per-row"
       data-block-count="{{ section.blocks.size }}"
+      style="display: flex;"
       >
       {% for block in section.blocks %}
-        <div class="text-with-icons__block text-{{ section.settings.align_text }}" {{ block.shopify_attributes }}>
+        <div class="text-with-icons__block text-{{ section.settings.align_text }}" {{ block.shopify_attributes }} style="flex: 1 1 140px;">
           <div class="text-with-icons__block-icon">
             {% case block.settings.icon %}
               {% when 'bills'%}
