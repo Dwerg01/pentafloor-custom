@@ -463,29 +463,38 @@
           "type": "text_block",
           "settings": {
             "icon": "shield",
-            "title": "PRODUCT CUSTOMISATION",
-            "text": ""
+            "title": "",
+            "text": "<p><strong>PRODUCT CUSTOMISATION<\/strong><\/p>"
+          }
+        },
+        "5c096640-d3ef-4a4c-80d3-073284e405d3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "",
+            "text": "<p><strong>Example title<\/strong><\/p>"
           }
         },
         "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-1": {
           "type": "text_block",
           "settings": {
             "icon": "thumbs-up",
-            "title": "3 TIERS OF SERVICE",
-            "text": ""
+            "title": "",
+            "text": "<p><strong>3 TIERS <\/strong><\/p><p><strong>OF SERVICE<\/strong><\/p>"
           }
         },
         "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-2": {
           "type": "text_block",
           "settings": {
             "icon": "stopwatch",
-            "title": "QUICK SHIP SERVICES",
-            "text": ""
+            "title": "",
+            "text": "<p><strong>QUICK SHIP <\/strong><\/p><p><strong>SERVICES<\/strong><\/p>"
           }
         }
       },
       "block_order": [
         "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-0",
+        "5c096640-d3ef-4a4c-80d3-073284e405d3",
         "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-1",
         "template--16826169557284__d4ae5aff-caf8-40b9-ace8-47c876b38200-16691113818c7bdf0e-2"
       ],
