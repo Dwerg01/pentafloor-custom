@@ -66,7 +66,7 @@
         "749a67df-23bc-4e7d-9994-fa04848f195d": {
           "type": "column",
           "settings": {
-            "block-heading": "Column Heading",
+            "block-heading": "",
             "text_alignment": "center",
             "icon": "globe",
             "icon-text": "Describe the image in your slide"
@@ -75,7 +75,7 @@
         "636536d3-952d-4d67-80a2-cb2c2f775758": {
           "type": "column",
           "settings": {
-            "block-heading": "Column Heading",
+            "block-heading": "",
             "text_alignment": "center",
             "icon": "plant",
             "icon-text": "Describe the image in your slide"
