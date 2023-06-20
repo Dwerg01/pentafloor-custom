@@ -60,7 +60,7 @@
             "block-heading": "",
             "text_alignment": "center",
             "icon": "charity",
-            "icon-text": "Describe the image in your slide"
+            "icon-text": "MANUFACTURED LOCALLY"
           }
         },
         "749a67df-23bc-4e7d-9994-fa04848f195d": {
@@ -69,7 +69,7 @@
             "block-heading": "",
             "text_alignment": "center",
             "icon": "globe",
-            "icon-text": "Describe the image in your slide"
+            "icon-text": "DESIGN LEADER IN GLOBAL FLOORING"
           }
         },
         "636536d3-952d-4d67-80a2-cb2c2f775758": {
@@ -78,7 +78,7 @@
             "block-heading": "",
             "text_alignment": "center",
             "icon": "plant",
-            "icon-text": "Describe the image in your slide"
+            "icon-text": "FOCUSED ON SUSTAINABILITY"
           }
         },
         "4b9d5387-15d0-44e1-8b1d-bd08d5b775e4": {
@@ -87,7 +87,7 @@
             "block-heading": "Column Heading",
             "text_alignment": "center",
             "icon": "ribbon",
-            "icon-text": "Describe the image in your slide"
+            "icon-text": "AWARD WINNING ACCESS FLOORING"
           }
         }
       },
@@ -99,6 +99,7 @@
       ],
       "custom_css": [
         ".icon-container {width: 25%; display: flex; flex-direction: column; align-items: center;}",
+        ".block-text {font-weight: 400;}",
         "@media screen and (max-width: 699px) {.icon-container {width: 100%; }}"
       ],
       "settings": {
