@@ -57,9 +57,9 @@
         "d91432eb-f65f-4e4b-986f-24aeaa632a5e": {
           "type": "column",
           "settings": {
-            "block-heading": "Column Heading",
+            "block-heading": "",
             "text_alignment": "center",
-            "icon": "chat",
+            "icon": "charity",
             "icon-text": "Describe the image in your slide"
           }
         },
@@ -68,16 +68,7 @@
           "settings": {
             "block-heading": "Column Heading",
             "text_alignment": "center",
-            "icon": "chat",
-            "icon-text": "Describe the image in your slide"
-          }
-        },
-        "4b9d5387-15d0-44e1-8b1d-bd08d5b775e4": {
-          "type": "column",
-          "settings": {
-            "block-heading": "Column Heading",
-            "text_alignment": "center",
-            "icon": "chat",
+            "icon": "globe",
             "icon-text": "Describe the image in your slide"
           }
         },
@@ -89,20 +80,29 @@
             "icon": "plant",
             "icon-text": "Describe the image in your slide"
           }
+        },
+        "4b9d5387-15d0-44e1-8b1d-bd08d5b775e4": {
+          "type": "column",
+          "settings": {
+            "block-heading": "Column Heading",
+            "text_alignment": "center",
+            "icon": "ribbon",
+            "icon-text": "Describe the image in your slide"
+          }
         }
       },
       "block_order": [
         "d91432eb-f65f-4e4b-986f-24aeaa632a5e",
         "749a67df-23bc-4e7d-9994-fa04848f195d",
-        "4b9d5387-15d0-44e1-8b1d-bd08d5b775e4",
-        "636536d3-952d-4d67-80a2-cb2c2f775758"
+        "636536d3-952d-4d67-80a2-cb2c2f775758",
+        "4b9d5387-15d0-44e1-8b1d-bd08d5b775e4"
       ],
       "custom_css": [
         ".icon-container {width: 25%; display: flex; flex-direction: column; align-items: center;}",
         "@media screen and (max-width: 699px) {.icon-container {width: 100%; }}"
       ],
       "settings": {
-        "title": "section heading"
+        "title": ""
       }
     },
     "49250430-196a-429c-a592-9846bfbecdd7": {
